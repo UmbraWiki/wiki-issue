@@ -8,7 +8,7 @@
 <!-- Se necessario, aggiungi qui degli screenshot del problema -->
 
 ## Pagine affette
-<!-- Un elenco di pagine/moduli/template del Wiki dove si riscontra questo problema -->
+<!-- Un elenco di pagine/moduli/template/widget del Wiki dove si riscontra questo problema -->
 
 * https://umbrawiki.netsons.org/Pagina_principale
 
