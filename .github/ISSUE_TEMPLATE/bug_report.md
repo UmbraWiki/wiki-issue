@@ -1,6 +1,7 @@
 ---
 name: Segnalazione Bug
-bug: Segnalaci il bug per aiutarci
+about: Segnalaci il bug per aiutarci
+title: ''
 labels: ''
 assignees: ''
 ---
