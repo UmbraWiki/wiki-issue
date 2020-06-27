@@ -1,3 +1,11 @@
+---
+name: Segnala un problema
+about: Usa questo template se e solo se non segnali un bug o proponi una feature
+title: ''
+labels: ''
+assignees: ''
+---
+
 <!-- Il titolo qui sopra deve essere ragionevolmente rappresentativo e non ambiguo -->
 <!-- Ricordati di aggiungere le label corrette a questa issue, di aggiungere i milestone di cancellare le parti di template che non ti servono -->
 
