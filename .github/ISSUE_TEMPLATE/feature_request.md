@@ -1,6 +1,7 @@
 ---
-nome: Richiesta di feature
-feature: Suggerisci un idea per questo progetto
+name: Richiesta di feature
+about: Suggerisci un idea per questo progetto
+title: ''
 labels: ''
 assignees: ''
 ---
