@@ -1,5 +1,5 @@
 ---
-nome: Richiesta di feature <!--non modificare-->
+nome: Richiesta di feature
 feature: Suggerisci un idea per questo progetto
 labels: ''
 assignees: ''
