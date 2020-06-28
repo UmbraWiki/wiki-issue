@@ -1,6 +1,6 @@
 ---
 name: Segnalazione Bug
-about: Segnalaci il bug per aiutarci
+about: Segnala un bug per aiutarci
 title: ''
 labels: 'bug'
 assignees: 'Cruifer'
